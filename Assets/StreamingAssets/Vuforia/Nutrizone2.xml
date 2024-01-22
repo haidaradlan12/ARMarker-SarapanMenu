@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Minggu" size="1.000000 0.710002" />
+    <ImageTarget name="Sabtu" size="1.000000 0.710002" />
+    <ImageTarget name="Jumat" size="1.000000 0.710002" />
+    <ImageTarget name="Kamis" size="1.000000 0.710002" />
+    <ImageTarget name="Rabu" size="1.000000 0.710002" />
+    <ImageTarget name="Selasa" size="1.000000 0.710002" />
+    <ImageTarget name="Senin" size="1.000000 0.710002" />
+  </Tracking>
+</QCARConfig>
